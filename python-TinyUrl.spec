@@ -10,7 +10,7 @@ Source0:	http://pypi.python.org/packages/source/T/TinyUrl/%{module}-%{version}.t
 URL:		http://pypi.python.org/pypi/TinyUrl/
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-libs
 Requires:	python-modules
 BuildArch:	noarch
